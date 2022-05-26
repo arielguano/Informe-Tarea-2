@@ -90,6 +90,6 @@ CAPITULO 1 - CAPITULO 2
 
 # 5.1 CONCLUSIONES
 
-BIBLIOGRAFÍA
+# BIBLIOGRAFÍA
 
 Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. Pearson Educación
