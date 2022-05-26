@@ -43,4 +43,12 @@ voltaje
 
 CAPITULO 1
 
-![]()
+![](https://github.com/arielguano/Informe-Tarea-2/blob/main/Imagen1.png)
+
+![](https://github.com/arielguano/Informe-Tarea-2/blob/main/Imagen2.png)
+
+![](https://github.com/arielguano/Informe-Tarea-2/blob/main/Imagen3.png)
+
+![](https://github.com/arielguano/Informe-Tarea-2/blob/main/Imagen4.png)
+
+![](https://github.com/arielguano/Informe-Tarea-2/blob/main/Imagen5.png)
