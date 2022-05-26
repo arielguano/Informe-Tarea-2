@@ -85,6 +85,9 @@ CAPITULO 1 - CAPITULO 2
 
 # 4.1 VIDEO
 
+https://www.youtube.com/watch?v=NGfw6DlDJZQ
+
+
 # 5.1 CONCLUSIONES
 
 • Conocimos las facilidades que nos da el saber calcular de manera correcta la resistencia, voltaje y corriente mediante la ley de ohm y así conocer los valores de un circuito resistivo.
