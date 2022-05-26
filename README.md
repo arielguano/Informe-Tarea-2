@@ -15,17 +15,26 @@ Tema: Cap 3 y 4 del libro Principios de circuitos Electricos Thomas L. Floyd Oct
 # 1.0 Objetivos 
 Generales :
 
-Explicar la ley de Ohm
+
 ◆ Calcular la corriente el voltaje y la resistencia  en un circuito
+
 ◆ Describir una aproximación básica a la localización de fallas
 
 ◆ Calcular la potencia  en un circuito
+
 ◆ Explicar la conversión de energía y la caída de
 voltaje
+
 ◆ Analizar las fuentes de potencia y sus características
   
   Especificos :
+  
 ◆ Calcular la corriente en un circuito
+
 ◆ Calcular el voltaje en un circuito
+
 ◆ Calcular la resistencia en un circuito
+
 ◆ Describir una aproximación básica a la localización de fallas
+
+◆ Seleccionar adecuadamente resistores con base en consideraciones de potencia
