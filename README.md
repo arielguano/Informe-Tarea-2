@@ -38,3 +38,8 @@ voltaje
 ◆ Describir una aproximación básica a la localización de fallas
 
 ◆ Seleccionar adecuadamente resistores con base en consideraciones de potencia
+
+# MARCO TEÓRICO (RESUMEN)
+
+CAPITULO 1
+
