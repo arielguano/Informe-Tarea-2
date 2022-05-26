@@ -41,7 +41,7 @@ voltaje
 
 # MARCO TEÓRICO (RESUMEN)
 
-CAPITULO 1- Capitulo 2
+CAPITULO 1 - CAPITULO 2
 
 ![](https://github.com/arielguano/Informe-Tarea-2/blob/main/Imagen1.png)
 
@@ -54,4 +54,37 @@ CAPITULO 1- Capitulo 2
 ![](https://github.com/arielguano/Informe-Tarea-2/blob/main/Imagen5.png)
 
 # 3. Explicación y Resolución de ejercicios o problemas
+
+# CAPITULO1
+
+[](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_page-0001.jpg)
+
+[](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_page-0002.jpg)
+
+[](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_page-0003.jpg)
+
+[](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_page-0004.jpg)
+
+[](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_page-0005.jpg)
+
+[](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_page-0006.jpg)
+
+[](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_page-0007.jpg)
+
+[](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_page-0008.jpg)
+
+# CAPITULO 4
+
+[](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_page-0009.jpg)
+
+[](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_page-0010.jpg)
+
+[](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_page-0011.jpg)
+
+[](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_page-0012.jpg)
+
+[](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_page-0013.jpg)
+
+[](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_page-0014.jpg)
+
 
