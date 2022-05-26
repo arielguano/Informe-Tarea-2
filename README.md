@@ -87,11 +87,12 @@ CAPITULO 1 - CAPITULO 2
 
 # 5.1 CONCLUSIONES
 
-Conocimos las facilidades que nos da el saber calcular de manera correcta la resistencia, voltaje y corriente mediante la ley de ohm y así conocer los valores de un circuito resistivo.
+• Conocimos las facilidades que nos da el saber calcular de manera correcta la resistencia, voltaje y corriente mediante la ley de ohm y así conocer los valores de un circuito resistivo.
 
 • Al realizar varios ejercicios nos dimos cuenta que entre más altos sean los watts en un dispositivo se puede obtener más energía de él por unidad tiempo de igual manera vimos que tiene una estrecha relación con la energía que es la capacidad para realizar trabajo.
 
 • Aprendimos que si un dispositivo tiene una mala eficiencia nos da como resultado un desperdicio de energía y con esto tendremos costos más altos.
+
 # BIBLIOGRAFÍA
 
 Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. Pearson Educación
