@@ -30,11 +30,11 @@ Generales :
   
 ◆ Calcular la corriente voltaje y resistencia en un circuito aplicando correctamente lo aprendido por  la ley de ohm.
 
-◆Calcular la potencia mediante diferentes formulas que especificamente aplicaremos dependiendo el tipo de datos que nor arrojara el ejercicio.
+◆Calcular la potencia mediante diferentes formulas que especificamente aplicaremos dependiendo el tipo de datos que nos arrojara el ejercicio.
 
 ◆ Describir una aproximación básica a la localización de fallas mediante un analisis  visual y aplicando lo aprendido en el libro.
 
-◆ Seleccionar adecuadamente resistores con base en consideraciones de potencia mediante la resolucion de ejercicios para su mejor comprencion.
+◆ Seleccionar adecuadamente resistores con base en consideraciones de potencia.
 
 # MARCO TEÓRICO (RESUMEN)
 
