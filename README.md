@@ -58,8 +58,38 @@ CAPITULO 1 - CAPITULO 2
 # CAPITULO 3
 ![](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_001.png)
 
+![](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_002.png)
+
+![](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_003.png)
+
+![](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_004.png)
+
+![](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_005.png)
+
+![](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_006.png)
+
+![](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_007.png)
+
+![](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_008.png)
 
 # CAPITULO 4
 
+![](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_009.png)
 
+![](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_010.png)
 
+![](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_011.png)
+
+![](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_012.png)
+
+![](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_013.png)
+
+![](https://github.com/arielguano/Informe-Tarea-2/blob/main/Deber%202%20Electronica_014.png)
+
+# 4.1 VIDEO
+
+# 5.1 CONCLUSIONES
+
+BIBLIOGRAFÍA
+
+Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. Pearson Educación
