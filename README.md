@@ -41,7 +41,7 @@ voltaje
 
 # MARCO TEÓRICO (RESUMEN)
 
-CAPITULO 1
+CAPITULO 1- Capitulo 2
 
 ![](https://github.com/arielguano/Informe-Tarea-2/blob/main/Imagen1.png)
 
@@ -53,6 +53,5 @@ CAPITULO 1
 
 ![](https://github.com/arielguano/Informe-Tarea-2/blob/main/Imagen5.png)
 
-Capitulo 2
+# 3. Explicación y Resolución de ejercicios o problemas
 
-![]()
